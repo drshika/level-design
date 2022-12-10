@@ -1,5 +1,9 @@
 # Level Design Demo
 
+<p align="center">
+<img width="720" alt="Screen Shot 2022-12-09 at 11 12 19 PM" src="https://user-images.githubusercontent.com/67125579/206830441-ab876434-8a2b-4ff3-9d76-33da543afcd2.png">
+</p>
+
 ## Getting Started
 
 Simply clone or download this game using `git clone`. You can double click the `cs415_mp2.uproject` file to open it in Unreal Engine or you can just open the folder in Unreal Engine. 
@@ -21,7 +25,7 @@ Finally, inside the house, there are some health pickups and some landmines to t
 
 ## Authors
 
-@drshika
+@drshika   
 [Epic Team - Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit)
 
 ## License
