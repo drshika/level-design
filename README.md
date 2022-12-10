@@ -13,6 +13,9 @@ Simply clone or download this game using `git clone`. You can double click the `
 Open this folder in [unreal engine](https://www.unrealengine.com/). Then hit the `play` button. The game will build and allow you to play it in a demo video. 
 
 ### Design Document
+
+I created this game for the Level Design assignment in [UIUC CS415](https://illinois-cs415.github.io/) Game Development Course in Fall 2022. 
+
 When I saw the map in the demo project, I was inspired to make a level on the same land using some of the static meshes provided to us. I imagined breaking up the island into different chunks and allowing the player to interact with different kinds of featured enemies at each stage. 
 
 The first stage, the player gets to get off the platform and interact with the mortar enemy which shoots exploding bombs in an arc. If the player manages to avoid that, they can progress through three round gates into an area with my custom enemy, the landmine. If the player intersects with the landmine, they die instantly. 
